@@ -62,4 +62,4 @@ Telegram频道传送门：整理优质频道推荐，涵盖娱乐、资源、爆
 社会影响：
 
 黑料大事记系统追踪争议事件全程，从第一条爆料到舆论扩散与结果走向，构建清晰时间轴，为大众还原事件始末与深层背景，是吃瓜人全面了解舆情动向的重要工具。
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/vivivi20250625/vivivi20250625）</span>
